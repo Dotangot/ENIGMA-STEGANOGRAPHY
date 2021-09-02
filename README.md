@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=3ttLjTFYuVs
 Check out our GUI video:
 https://www.youtube.com/watch?v=czVgQ4ZQfVU
 
-Check out our Presentation.pdf (main branch)
+Check out our Presentation.pdf & Poster.pdf (main branch)
