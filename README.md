@@ -12,11 +12,9 @@ The basic steganography proposed model is to iterate each pixel of an image and 
 Our main idea of the project is to manipulate the Discrete Cosine Transform (DCT) portion of the JPEG process in order to embed secret data in the lossy compression procedure.
 
 Check out our promotional video:
-
 https://www.youtube.com/watch?v=3ttLjTFYuVs
 
 Check out our GUI video:
-
 https://www.youtube.com/watch?v=czVgQ4ZQfVU
 
 Check out our Presentation.pdf (main branch)
